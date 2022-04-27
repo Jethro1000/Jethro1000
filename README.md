@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jethro1000
+- 👋 Hi, I’m Joerg
 - 👀 I’m am manager of a DevOps department in a software company
 - 🌱 My expertise is AWS Cloud Services, software migration to SaaS/PaaS, Monitoring (in special Prometheus/Grafana) and a little bit Java and C
 - 💞️ We as company using more than 70% of OpenSource products and supporting them 
